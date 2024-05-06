@@ -1,2 +1,2 @@
 # Lite_OR_Board
-A lite visualization board based gradio, pyomo and  mulitiple solvers that provides you a convenient way
+A visualization board based on gradio, pyomo and multiple solvers that provides a convenient way to construct lightweight OR project.
